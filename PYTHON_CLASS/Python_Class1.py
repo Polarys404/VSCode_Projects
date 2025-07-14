@@ -73,8 +73,8 @@ print("División entera:", a // b)  # División entera
 print("Módulo:", a % b)  # Módulo
 print("Exponente:", a ** b)  # Exponente o Potencia
 
-print( 10 + 5 * 2 - 3 / 1) # Operaciones combinadas, Se puede usar mas de un operador en conjunto en una misma expresión, pero se respetara la regla matematica de jerarquia de operaciones.
-print( (10 + 5) * ((2 - 3) / 1)) # se puede hacer uso de paréntesis para cambiar el orden de las operaciones 
+print("Resultado Op Combinada:", 10 + 5 * 2 - 3 / 1) # Operaciones combinadas, Se puede usar mas de un operador en conjunto en una misma expresión, pero se respetara la regla matematica de jerarquia de operaciones.
+print("Resultado Op. Comb. de orden cambiado:", (10 + 5) * ((2 - 3) / 1)) # se puede hacer uso de paréntesis para cambiar el orden de las operaciones
 
 # Ejemplo de operadores lógicos
 print("Operadores lógicos:") # Los operadores lógicos se utilizan para combinar expresiones booleanas, osea que tienen de resultado True o False.
